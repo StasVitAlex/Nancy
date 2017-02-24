@@ -1,0 +1,8 @@
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.dll
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.pdb
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\JWT.dll
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\Nancy.dll
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\Nancy.xml
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.dll
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.pdb
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.csprojResolveAssemblyReference.cache

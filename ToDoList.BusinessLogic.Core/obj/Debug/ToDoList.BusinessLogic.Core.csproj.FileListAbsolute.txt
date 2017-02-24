@@ -1,0 +1,13 @@
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.BusinessLogic.Core.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.BusinessLogic.Core.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Models.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\EntityFramework.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Models.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Repositories.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\EntityFramework.xml
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.pdb
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.dll
+C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.xml

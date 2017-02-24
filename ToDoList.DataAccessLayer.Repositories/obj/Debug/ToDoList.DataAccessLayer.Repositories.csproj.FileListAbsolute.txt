@@ -1,0 +1,14 @@
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll.config
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Models.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Models.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.dll
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.Migrations.Initial.resources
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.csproj.GenerateResource.Cache
