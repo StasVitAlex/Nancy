@@ -19,6 +19,7 @@
 bld/
 [Bb]in/
 [Oo]bj/
+.vs/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -57,6 +58,7 @@ dlldata.c
 *.pidb
 *.svclog
 *.scc
+*.vs
 
 # Visual C++ cache files
 ipch/
@@ -102,5 +104,5 @@ AutoTest.Net/
 # but keep track of directories ending in .cache
 !*.[Cc]ache/
 
-.dat
+*.dat
 
