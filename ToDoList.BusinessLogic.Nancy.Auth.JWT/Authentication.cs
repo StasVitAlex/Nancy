@@ -40,6 +40,7 @@ namespace ToDoList.BusinessLogic.Nancy.Auth.JWT
 
             // check auth header token
             string token = context.Request.Headers.Authorization;
+
             if (string.IsNullOrWhiteSpace(token))
                 return AuthChallengeResponse(context);
 

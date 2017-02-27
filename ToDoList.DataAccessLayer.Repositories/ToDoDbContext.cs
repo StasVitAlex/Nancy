@@ -16,6 +16,7 @@ namespace ToDoList.DataAccessLayer.Repositories
         }
 
         public IDbSet<ToDo> ToDos { get; set; }
+        public IDbSet<RefreshToken> RefreshTokens { get; set; }
 
         public IDbSet<TEntity> Set<TEntity>() where TEntity : class
         {

@@ -37,7 +37,7 @@ namespace ToDoList.BusinessLogic.Nancy.Auth.JWT
 
                 var decoded = JsonWebToken.DecodeToObject(token, securekey) as Dictionary<string, object>;
 
-                JWTToken tk = new JWTToken
+                AccessToken tk = new AccessToken
                 {
                     UserName = decoded["UserName"].ToString(),
                     Expire = DateTime.Parse(decoded["Expire"].ToString())

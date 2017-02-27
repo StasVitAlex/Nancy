@@ -9,6 +9,6 @@ namespace ToDoList.BusinessLogic.Nancy.Auth.JWT.Interfaces
 {
     public interface ITokenUserMapper
     {
-        IUserIdentity Map(JWTToken token);
+        IUserIdentity Map(AccessToken token);
     }
 }

@@ -2,3 +2,4 @@ C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataA
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Models\bin\Debug\ToDoList.DataAccessLayer.Models.pdb
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Models\obj\Debug\ToDoList.DataAccessLayer.Models.dll
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Models\obj\Debug\ToDoList.DataAccessLayer.Models.pdb
+C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Models\obj\Debug\ToDoList.DataAccessLayer.Models.csprojResolveAssemblyReference.cache

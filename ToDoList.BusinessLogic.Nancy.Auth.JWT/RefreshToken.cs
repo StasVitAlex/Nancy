@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace ToDoList.BusinessLogic.Nancy.Auth.JWT
 {
-    public class JWTToken
+    public class RefreshToken
     {
-        public string UserName { get; set; }
+        public Guid id { get; set; }
 
-        public DateTime Expire { get; set; }
-
-        public IEnumerable<string> Claims { get; set; }
-        
+        public DateTime ExpirationDate { get; set; }
     }
 }

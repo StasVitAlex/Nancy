@@ -56,9 +56,14 @@
     <Compile Include="Migrations\201702201528286_Initial.Designer.cs">
       <DependentUpon>201702201528286_Initial.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201702271403140_RefreshToken.cs" />
+    <Compile Include="Migrations\201702271403140_RefreshToken.Designer.cs">
+      <DependentUpon>201702271403140_RefreshToken.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Repositories\BaseRepository.cs" />
     <Compile Include="Repositories\BaseSimpleRepository.cs" />
+    <Compile Include="Repositories\DataRepositories\RefreshTokenRepository.cs" />
     <Compile Include="Repositories\DataRepositories\ToDoRepository.cs" />
     <Compile Include="ToDoDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -77,6 +82,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201702201528286_Initial.resx">
       <DependentUpon>201702201528286_Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702271403140_RefreshToken.resx">
+      <DependentUpon>201702271403140_RefreshToken.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

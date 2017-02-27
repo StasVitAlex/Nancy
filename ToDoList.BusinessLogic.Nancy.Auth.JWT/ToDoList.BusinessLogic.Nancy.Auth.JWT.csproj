@@ -55,8 +55,9 @@
     <Compile Include="Interfaces\ITokenProviderOptions.cs" />
     <Compile Include="Interfaces\ITokenUserMapper.cs" />
     <Compile Include="Interfaces\ITokenValidator.cs" />
-    <Compile Include="JWTToken.cs" />
+    <Compile Include="AccessToken.cs" />
     <Compile Include="JWTTokenEncoder.cs" />
+    <Compile Include="RefreshToken.cs" />
     <Compile Include="TokenUserMapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TokenConfiguration.cs" />

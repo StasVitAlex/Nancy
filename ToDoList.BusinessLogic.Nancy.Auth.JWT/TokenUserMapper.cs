@@ -10,7 +10,7 @@ namespace ToDoList.BusinessLogic.Nancy.Auth.JWT
 {
     public class TokenUserMapper : ITokenUserMapper
     {
-        public IUserIdentity Map(JWTToken token)
+        public IUserIdentity Map(AccessToken token)
         {
             return new UserIdentity
             {
