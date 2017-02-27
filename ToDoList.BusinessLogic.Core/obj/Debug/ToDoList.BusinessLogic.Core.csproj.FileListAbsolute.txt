@@ -11,3 +11,16 @@ C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Busin
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.pdb
 C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.dll
 C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.xml
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.BusinessLogic.Core.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.BusinessLogic.Core.pdb
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Models.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\EntityFramework.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Models.pdb
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\ToDoList.DataAccessLayer.Repositories.pdb
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\AutoMapper.xml
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\bin\Debug\EntityFramework.xml
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.csprojResolveAssemblyReference.cache
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Core\obj\Debug\ToDoList.BusinessLogic.Core.pdb

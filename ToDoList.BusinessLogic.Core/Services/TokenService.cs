@@ -16,12 +16,21 @@ namespace ToDoList.BusinessLogic.Core.Services
         {
         }
 
-        public void UpdateRefreshToken(string token)
+        public void UpdateRefreshToken(string oldToken, string newToken)
         {
-            throw new NotImplementedException();
+            this.InvokeInUnitOfWorkScope(uow =>
+            {
+                var tokenRepo = uow.GetRepository<RefreshTokenRepository>();
+                var token = tokenRepo.GetSingle(x => x.Token.Equals(oldToken));
+                token.ExpirationDate = DateTime.UtcNow.AddDays(7);
+                token.IsActive = true;
+                token.Token = newToken;
+                tokenRepo.Modify(token);
+                uow.SaveChanges();
+            });
         }
 
-        public bool Validate(string token)
+        public bool ValidateRefreshToken(string token)
         {
             return this.InvokeInUnitOfWorkScope(uow =>
                  {
@@ -57,4 +66,4 @@ namespace ToDoList.BusinessLogic.Core.Services
 
     }
 }
-}
+

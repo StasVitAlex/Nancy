@@ -6,3 +6,10 @@ C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.Busin
 C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.dll
 C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.pdb
 C:\Users\Stasevich\documents\visual studio 2015\Projects\ToDoList\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.csprojResolveAssemblyReference.cache
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.pdb
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\JWT.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\Nancy.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\bin\Debug\Nancy.xml
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.dll
+D:\WorkProjects\Nancy\ToDoList.BusinessLogic.Nancy.Auth.JWT\obj\Debug\ToDoList.BusinessLogic.Nancy.Auth.JWT.pdb

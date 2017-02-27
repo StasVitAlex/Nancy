@@ -13,3 +13,18 @@ C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataA
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.Migrations.Initial.resources
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.csproj.GenerateResource.Cache
 C:\Users\Stasevich\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.Migrations.RefreshToken.resources
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll.config
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.dll
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Repositories.pdb
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.dll
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Models.dll
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\ToDoList.DataAccessLayer.Models.pdb
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.xml
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.csprojResolveAssemblyReference.cache
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.Migrations.Initial.resources
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.Migrations.RefreshToken.resources
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.csproj.GenerateResource.Cache
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.dll
+D:\WorkProjects\Nancy\ToDoList.DataAccessLayer.Repositories\obj\Debug\ToDoList.DataAccessLayer.Repositories.pdb

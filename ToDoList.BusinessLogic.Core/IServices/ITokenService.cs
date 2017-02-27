@@ -8,9 +8,9 @@ namespace ToDoList.BusinessLogic.Core.IServices
 {
     public interface ITokenService
     {
-        bool Validate(string token);
+        bool ValidateRefreshToken(string token);
 
-        void UpdateRefreshToken(string token);
+        void UpdateRefreshToken(string oldToken, string newToken);
 
         void AddRefreshToken(string token);
     }
